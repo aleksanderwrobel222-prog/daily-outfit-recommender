@@ -1,0 +1,201 @@
+UserId,Weather,Clothing,Rating
+17,Mild,Crewneck Sweater,4.2
+1,Cool,Chinos,4.1
+2,Cool,Pleated Trousers,3.1
+24,Cold,Crewneck Sweater,3.5
+20,Hot,Pleated Trousers,2.5
+18,Rainy,Pleated Trousers,2.8
+25,Cold,Oxford Cloth Button-Down,2.6
+1,Cold,Chinos,2.9
+12,Cold,Linen Trousers,1.0
+9,Rainy,Oxford Cloth Button-Down,3.3
+3,Cold,Wool Trousers,5.0
+2,Sunny,Linen Shirt,4.1
+19,Cool,Pleated Trousers,3.0
+15,Cool,Oxford Cloth Button-Down,3.6
+7,Rainy,Wool Trousers,3.6
+23,Cool,Pleated Trousers,3.2
+14,Hot,V-Neck Sweater,3.1
+2,Sunny,Wool Trousers,1.2
+11,Cool,V-Neck Sweater,3.9
+14,Cold,Crewneck Sweater,3.2
+22,Mild,Chinos,4.0
+5,Mild,Linen Trousers,2.1
+14,Mild,Polo Shirt,3.3
+15,Cool,Corduroy Trousers,4.1
+17,Mild,V-Neck Sweater,4.5
+23,Hot,Oxford Cloth Button-Down,2.9
+22,Mild,Pleated Trousers,2.6
+14,Cool,Polo Shirt,2.8
+24,Sunny,Linen Trousers,4.9
+12,Rainy,Pleated Trousers,2.6
+12,Mild,Cashmere Sweater,3.3
+18,Cool,Linen Shirt,1.8
+23,Sunny,Linen Trousers,4.6
+25,Rainy,Polo Shirt,2.9
+25,Hot,Wool Trousers,1.2
+16,Cold,V-Neck Sweater,3.0
+19,Sunny,Linen Trousers,4.3
+14,Hot,Cashmere Sweater,1.3
+2,Mild,Linen Shirt,2.2
+13,Rainy,Polo Shirt,3.2
+15,Cool,Linen Shirt,1.8
+12,Rainy,V-Neck Sweater,2.9
+15,Sunny,Crewneck Sweater,3.0
+23,Cold,Chinos,2.6
+4,Mild,Crewneck Sweater,4.3
+2,Sunny,Chinos,3.4
+18,Cool,Linen Trousers,2.3
+2,Mild,Linen Trousers,2.5
+1,Cold,Polo Shirt,1.0
+19,Mild,Oxford Cloth Button-Down,4.1
+11,Rainy,Pleated Trousers,2.5
+15,Rainy,Corduroy Trousers,3.2
+4,Hot,Polo Shirt,4.1
+22,Sunny,Polo Shirt,4.7
+16,Cool,Cashmere Sweater,3.1
+8,Sunny,V-Neck Sweater,2.8
+14,Rainy,Pleated Trousers,3.1
+16,Mild,Chinos,3.5
+16,Rainy,Cashmere Sweater,2.2
+16,Mild,Wool Trousers,2.9
+12,Cool,Crewneck Sweater,3.6
+25,Cold,Cashmere Sweater,4.9
+23,Cool,V-Neck Sweater,4.2
+8,Hot,Linen Shirt,4.8
+20,Cold,Polo Shirt,1.0
+21,Sunny,Oxford Cloth Button-Down,2.6
+2,Rainy,Linen Trousers,1.3
+23,Cold,Chinos,2.9
+24,Sunny,Linen Trousers,4.2
+19,Cool,Cashmere Sweater,3.3
+2,Cool,Wool Trousers,2.6
+13,Cold,Crewneck Sweater,3.2
+10,Cold,Cashmere Sweater,4.6
+20,Mild,Crewneck Sweater,3.6
+22,Hot,Wool Trousers,1.0
+3,Hot,Cashmere Sweater,1.0
+16,Hot,Crewneck Sweater,3.0
+21,Cool,Corduroy Trousers,4.4
+4,Rainy,Chinos,2.5
+19,Sunny,Corduroy Trousers,1.1
+16,Mild,Crewneck Sweater,3.9
+11,Cool,Chinos,3.7
+14,Cold,Crewneck Sweater,3.1
+7,Cold,Oxford Cloth Button-Down,2.9
+1,Cool,Polo Shirt,3.4
+11,Sunny,Oxford Cloth Button-Down,2.9
+13,Cool,Polo Shirt,2.8
+8,Rainy,Linen Shirt,2.3
+10,Cold,Pleated Trousers,2.7
+14,Rainy,Corduroy Trousers,3.0
+1,Mild,Crewneck Sweater,3.9
+3,Mild,Pleated Trousers,3.1
+7,Rainy,V-Neck Sweater,3.0
+19,Mild,Linen Trousers,2.5
+15,Mild,Pleated Trousers,2.5
+17,Mild,V-Neck Sweater,4.3
+22,Rainy,Crewneck Sweater,3.0
+10,Rainy,Linen Shirt,2.1
+13,Cool,Pleated Trousers,3.1
+1,Sunny,Corduroy Trousers,1.0
+13,Rainy,Chinos,2.9
+2,Cold,Pleated Trousers,3.5
+12,Mild,Wool Trousers,3.3
+10,Rainy,Linen Shirt,2.1
+19,Mild,Pleated Trousers,3.2
+2,Mild,Cashmere Sweater,3.3
+1,Mild,Chinos,4.3
+22,Mild,Oxford Cloth Button-Down,3.7
+1,Mild,Linen Shirt,2.1
+13,Cool,Crewneck Sweater,3.7
+11,Mild,Pleated Trousers,2.7
+23,Mild,Linen Shirt,1.7
+24,Rainy,Linen Shirt,1.5
+18,Rainy,Wool Trousers,4.5
+17,Mild,Polo Shirt,3.3
+18,Cold,Linen Trousers,1.0
+16,Hot,Linen Shirt,4.9
+14,Cold,Polo Shirt,1.0
+8,Cold,Pleated Trousers,3.1
+20,Rainy,Polo Shirt,2.5
+16,Cold,Linen Shirt,1.0
+12,Sunny,Linen Trousers,4.6
+22,Mild,Linen Shirt,1.9
+15,Mild,Cashmere Sweater,2.7
+20,Cold,Corduroy Trousers,4.7
+15,Hot,Wool Trousers,1.1
+19,Sunny,Oxford Cloth Button-Down,2.9
+18,Cool,Corduroy Trousers,4.4
+14,Sunny,Polo Shirt,4.4
+18,Cool,Oxford Cloth Button-Down,4.5
+18,Hot,Pleated Trousers,3.3
+19,Sunny,Chinos,3.3
+25,Rainy,Crewneck Sweater,3.4
+1,Mild,Cashmere Sweater,2.8
+20,Rainy,Chinos,2.9
+14,Cool,Chinos,4.4
+10,Mild,Pleated Trousers,2.7
+13,Hot,Oxford Cloth Button-Down,2.8
+11,Mild,V-Neck Sweater,4.2
+12,Rainy,Linen Trousers,1.4
+15,Hot,Cashmere Sweater,1.3
+7,Cold,Wool Trousers,4.8
+21,Mild,Cashmere Sweater,3.3
+24,Cool,Cashmere Sweater,3.0
+12,Hot,Polo Shirt,4.2
+13,Cool,Linen Shirt,2.3
+10,Rainy,Crewneck Sweater,2.5
+20,Cool,Corduroy Trousers,4.5
+2,Cold,Chinos,2.6
+19,Cold,Cashmere Sweater,4.9
+18,Cool,Cashmere Sweater,2.6
+1,Cold,Cashmere Sweater,4.9
+11,Mild,Corduroy Trousers,4.2
+24,Cold,V-Neck Sweater,3.4
+18,Cool,Linen Shirt,2.3
+24,Sunny,Wool Trousers,1.1
+14,Rainy,V-Neck Sweater,2.5
+17,Cold,Polo Shirt,1.0
+8,Cold,Chinos,2.6
+2,Rainy,Chinos,3.4
+18,Sunny,Cashmere Sweater,1.5
+22,Cold,Linen Shirt,1.0
+11,Sunny,V-Neck Sweater,2.8
+8,Cool,Chinos,4.1
+2,Sunny,Pleated Trousers,2.5
+13,Cool,Chinos,4.5
+11,Cool,Crewneck Sweater,3.6
+12,Rainy,Cashmere Sweater,2.5
+10,Hot,Polo Shirt,4.7
+10,Hot,Pleated Trousers,3.4
+25,Rainy,Oxford Cloth Button-Down,3.3
+24,Hot,Chinos,2.6
+20,Mild,Oxford Cloth Button-Down,4.1
+15,Hot,Linen Shirt,4.1
+3,Sunny,Polo Shirt,4.6
+22,Cool,Pleated Trousers,3.0
+19,Cold,Linen Trousers,1.0
+23,Hot,Corduroy Trousers,1.4
+24,Cold,Pleated Trousers,3.0
+16,Cool,Oxford Cloth Button-Down,3.7
+9,Rainy,Pleated Trousers,3.2
+18,Mild,Wool Trousers,2.6
+21,Sunny,Chinos,3.4
+14,Hot,Chinos,3.5
+21,Cool,V-Neck Sweater,4.2
+3,Rainy,Oxford Cloth Button-Down,3.0
+1,Mild,Pleated Trousers,3.4
+21,Sunny,Linen Trousers,4.7
+19,Rainy,Polo Shirt,2.9
+23,Cool,Crewneck Sweater,4.0
+21,Rainy,Wool Trousers,4.1
+10,Rainy,V-Neck Sweater,3.2
+20,Hot,Linen Shirt,4.9
+1,Sunny,Pleated Trousers,3.2
+9,Sunny,Linen Shirt,4.9
+25,Cold,Oxford Cloth Button-Down,3.1
+4,Hot,Linen Trousers,4.8
+6,Cold,Wool Trousers,4.9
+19,Rainy,Cashmere Sweater,2.1
+9,Mild,Polo Shirt,3.8
