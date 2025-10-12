@@ -407,7 +407,7 @@ class NCF:
             train_time = time() - train_begin
 
             # output every self.verbose
-            if self.verbose and epoch_count % self.verbose == 0:
+            if self.verbose and epoch_count % self.verbose == 0 and len(train_loss) > 0:
                 logger.info(
                     "Epoch %d [%.2fs]: train_loss = %.6f "
                     % (epoch_count, train_time, sum(train_loss) / len(train_loss))

@@ -44,7 +44,6 @@ ERROR_HEADER = "Header error. At least user and clothing column names should be 
 def load_pandas_df(
     filepath="example.csv",
     header=None,
-    weather_col=None,
 ):
     """Loads the Outfit dataset as pd.DataFrame.
 
@@ -73,9 +72,6 @@ def load_pandas_df(
     # Convert 'rating' type to float
     if len(header) > 3:
         df[header[3]] = df[header[3]].astype(float)
-
-    if weather_col is None and 'Weather' in df.columns:
-        df = df.drop(columns=["Weather"])
 
     return df
 

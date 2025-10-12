@@ -180,3 +180,7 @@ reports/
 
 ### pip folders
 pip-wheel*
+
+train.csv
+test.csv
+test_full.csv

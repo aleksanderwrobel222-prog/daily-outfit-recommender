@@ -58,6 +58,24 @@ pip install recommenders[spark]
 #   c. Run the notebook.
 ```
 
+### Setup for NCF
+```bash
+# 1. Create a new conda environment (very much recommended) and activate it
+# 2. Add the base packages to the environment
+pip install recommenders
+
+# 3. Adding the gpu extra to the pip install command:
+pip install recommenders[gpu]
+
+# 4. Lower your numpy version for compatability issues (found only on mac so far?):
+pip install "numpy<2"
+
+# 5. Within VSCode:
+#   a. Open a notebook with a Spark model;  
+#   b. Select kernel <environment_name>;
+#   c. Run the notebook.
+```
+
 ## Algorithms
 
 The table below lists the algorithms researched in this project.
