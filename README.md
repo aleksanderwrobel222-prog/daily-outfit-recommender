@@ -58,7 +58,7 @@ pip install recommenders[spark]
 #   c. Run the notebook.
 ```
 
-### Setup for NCF
+### Setup for NCF and LightGCN
 ```bash
 # 1. Create a new conda environment (very much recommended) and activate it
 # 2. Add the base packages to the environment
@@ -84,4 +84,4 @@ The table below lists the algorithms researched in this project.
 |-----------|------|-------------|
 | Alternating Least Squares (ALS) | Collaborative Filtering | Matrix factorization algorithm for explicit or implicit feedback in large datasets, optimized for scalability and distributed computing capability.
 | Neural Collaborative Filtering (NCF) | Collaborative Filtering | Deep learning algorithm with enhanced performance for user/item implicit feedback.
-| GRU | Collaborative Filtering | Sequential-based algorithm that aims to capture both long and short-term user preferences using recurrent neural networks. It works in the CPU/GPU environment.
+| LightGCN | Collaborative Filtering | Deep learning algorithm which simplifies the design of GCN for predicting implicit feedback. It works in the CPU/GPU environment.
